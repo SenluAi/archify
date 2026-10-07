@@ -288,7 +288,7 @@ node bin/archify.mjs deliver workflow examples/agent-tool-call.workflow.json /tm
 |---|---|
 | 打开事实型图表指南 | <kbd>?</kbd> |
 | 查找并聚焦语义节点 | <kbd>/</kbd> |
-| 追踪作者标注的上游/下游范围 | 聚焦节点后选上游或下游 |
+| 追踪作者标注的上游/下游范围 | Focus a node → Upstream / Downstream |
 | 探测有向路径并查看其过程 | <kbd>R</kbd> 或 PATH |
 | 对比一到两个语义角色 | <kbd>L</kbd> 或 LENS |
 | 打开实时总览雷达 | <kbd>M</kbd> 或 MAP |
